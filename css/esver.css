@@ -168,6 +168,12 @@ body, html {
     color: white;
 }
 
+#divulgacion {
+    padding: 20px 0 70px 0;
+    background-color: black;
+    color: white;
+}
+
 H1 {
     font-size: 36px;
     font-weight: 700;
@@ -221,6 +227,34 @@ H1 {
     vertical-align: baseline;
     margin-right: 1.5rem;
     border: var(--main-ev-color) 2px solid;
+}
+
+.schedule-red {
+    border-left: #cf3f3f 4px solid;
+}
+
+.schedule-violet {
+    border-left: #7c2fff 4px solid;
+}
+
+.schedule-blue {
+    border-left: #243fcb 4px solid;
+}
+
+.schedule-yellow {
+    border-left: #e1bd46 4px solid;
+}
+
+.schedule-green {
+    border-left: #00b718 4px solid;
+}
+
+.schedule-orange {
+    border-left: #dc8227 4px solid;
+}
+
+.schedule-grey {
+    border-left: #858585 4px solid;
 }
 
 .code {
